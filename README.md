@@ -1,6 +1,6 @@
 # LoS-predictive-model
 
-Length of stay (LoS) is the number of days a patient stays in a healthcare facility in a single visit and is listed by the UK National Health Service (NHS) as a key domain to assess the efficiency of integrated care. Current evidence suggests shorter LoS has been linked to better care for patients, higher bed turnover rate, and increased profit margins for hospitals. Predicting LoS, therefore, has become a sought-after goal among hospitals to better manage hospital resources and provide the best in patient care.
+Length of stay (LoS) is the number of days a patient stays in a healthcare facility in a single visit and is listed by the UK National Health Service (NHS) as a key domain to assess the efficiency of integrated care. 
 
 Although there are a wide number of predictive LoS models, extensive literature review has revealed there are none focused on paediatric patients in the UK. Our aim is to fill this gap by providing a predictive AI model of LoS for paediatric patients admitted from the Emergency Department (ED). Focusing on children specifically is important as research shows factors that affect their LoS will be different than adults, in both the medical and social sphere. Patients admitted from the ED also face some special considerations, as longer LoS within the ED leads to longer hospital LoS and correlates with further complications once admitted.
 
